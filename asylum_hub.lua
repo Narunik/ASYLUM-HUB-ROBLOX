@@ -1,1 +1,1 @@
-require(4992512410):Asylumgotskidded("Your Name")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Narunik/ASYLUM-HUB-ROBLOX/main/asylum_hub.lua"))()
